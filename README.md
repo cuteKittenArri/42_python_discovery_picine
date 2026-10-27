@@ -97,4 +97,5 @@ chmod +x module3/ex01/multiplication_table.py
 
 ## Author
 
-**Steffi Muller** (`stmuller`), Discovery Piscine participant at 42 Vienna, October 2026
+- **GitHub:** [cuteKittenArri](https://github.com/cuteKittenArri)
+<img src="https://arri-eta.vercel.app/mage.gif" alt="arri" style="max-width: 205px;">
