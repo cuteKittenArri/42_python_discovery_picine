@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+i = input()
+if i == '0':
+	print("This number is equal to zero.")
+else:
+	print("This number is different from zero.")
