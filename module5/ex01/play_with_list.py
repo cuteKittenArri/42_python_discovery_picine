@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+list1 = [4, 67, 420, 69, 666]
+list2 = list()
+for item in list1:
+        list2.append(item + 2)
+print(list1)
+print(list2)
