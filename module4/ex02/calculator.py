@@ -6,5 +6,3 @@ print(f"{x} + {y} = {x + y}")
 print(f"{x} - {y} = {x - y}")
 print(f"{x} / {y} = {x / y}")
 print(f"{x} * {y} = {x * y}")
-
-i+=1
