@@ -1,8 +1,7 @@
 # Discovery Piscine – Core Python Programming
 
-My solutions to the exercises from the **Discovery Piscine for pupils & students**
-at [42 Vienna](https://42vienna.com). This is a free, immersive workshop that teaches
-Python basics in a short time through peer-to-peer learning.
+My solutions to the exercises from the **Discovery Piscine for Core Python Programming**
+at [42 Vienna](https://42vienna.com).
 
 The repository holds 41 exercises across 9 modules, going from a first `print` to
 writing your own functions.
