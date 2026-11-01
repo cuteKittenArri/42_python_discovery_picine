@@ -7,24 +7,6 @@ Python basics in a short time through peer-to-peer learning.
 The repository holds 41 exercises across 9 modules, going from a first `print` to
 writing your own functions.
 
-## About the event
-
-| | |
-|---|---|
-| **Organizer** | 42 Vienna – Digital Excellence Campus |
-| **Location** | Muthgasse 26, 1st floor, 1190 Wien, Austria |
-| **Dates** | 27–30 October 2026 |
-| **Format** | On-site, in English |
-| **Audience** | Pupils & students aged 16–25 |
-| **Prerequisites** | None, just curiosity and a willingness to learn |
-| **Cost** | Free |
-
-[Event page on Eventbrite](https://www.eventbrite.at/e/discovery-piscine-for-pupils-students-core-python-programming-tickets-1999494594156)
-
-There are no lectures and no teachers. You get a set of exercises for each module,
-work through them yourself, and learn by asking and helping your peers. That is
-the 42 way of learning.
-
 ## Repository structure
 
 ```
